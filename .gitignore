@@ -1,0 +1,10 @@
+output/
+*.pyc
+__pycache__/
+*.log
+*.json
+*.csv
+*.xlsx
+venv/
+.idea/
+*.DS_Store
