@@ -1,0 +1,7 @@
+aiohttp==3.9.5
+aiofiles==24.1.0
+lxml==5.3.0
+pandas==2.2.3
+openpyxl==3.1.5
+plyer==2.1.0
+psutil==6.0.0
